@@ -1,5 +1,5 @@
 # Hi, I'm Jinhyuk Jang 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233DB1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJH0327&count_bg=%233DB1C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🔭 I’m currently studying on [Stony Brook University, Dept. of Computer Science](https://www.stonybrook.edu/)     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Stony_Brook_Athletics_Primary_Logo.png" width="20" height="15"/>
 - 🌱 I’m currently learning **about Spring Boot**
