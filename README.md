@@ -1,4 +1,9 @@
 # Hi, I'm Jinhyuk Jang 👋
+<div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
 
 
 - 🔭 I’m currently studying on [Stony Brook University, Dept. of Computer Science](https://www.stonybrook.edu/)     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Stony_Brook_Athletics_Primary_Logo.png" width="20" height="15"/>
@@ -11,6 +16,7 @@
 - ⚡ Fun fact: ...
 -->
 ___
+**Languages and Tools :**
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
