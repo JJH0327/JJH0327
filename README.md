@@ -4,8 +4,9 @@
 
 
 
-- 🔭 I’m currently studying on [Stony Brook University, Dept. of Computer Science](https://www.stonybrook.edu/)     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Stony_Brook_Athletics_Primary_Logo.png" width="20" height="15"/>
-<br/>
+- 🔭 I’m currently studying on [Stony Brook University, Dept. of Computer Science](https://www.stonybrook.edu/)     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Stony_Brook_Athletics_Primary_Logo.png" width="20" height="15"/><br/>
+
+
 - 🌱 I’m currently learning **about Spring Boot**
 <br/>
 - 👯 I’m looking to collaborate on **
