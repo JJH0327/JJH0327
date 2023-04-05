@@ -48,10 +48,9 @@ ___
 	<a href="https://www.instagram.com/hlkgur"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram/hlkgur)"/></a> </div>
 	
 ___
-	
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJH0327&layout=compact">	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJH0327)](https://github.com/anuraghazra/github-readme-stats) <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJH0327&layout=compact">
-	
+
 	
 	
 	
