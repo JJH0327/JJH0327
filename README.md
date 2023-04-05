@@ -45,7 +45,7 @@ ___
 <div align="center"> 📫 Contact me 📫 </div> <br/>
 <div align="center">
 	<a href="mailto:jangjinhyuk567@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jangjinhyuk567@gmail.com"/></a>
-	<a href="https://instagram/hlkgur"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram/hlkgur"/></a> </div>
+	<a href="https://www.instagram.com/hlkgur"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram/hlkgur)"/></a> </div>
 	
 	
 	
