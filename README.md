@@ -1,4 +1,4 @@
-# <div align="center">Hi 👋, I'm Jinhyuk Jang :otter: </div>
+# <div align="center">Hi 👋, I'm Jinhyuk Jang 🙌 </div>
 
 
 
