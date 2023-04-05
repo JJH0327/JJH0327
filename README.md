@@ -40,7 +40,7 @@ ___
 	<img src="https://img.shields.io/badge/Visualstudiocode-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Datagrip-000000?style=flat&logo=Datagrip&logoColor=white"/>
 	
-</div>
+</div> <br/>
 <div align="center"> 📫 Contact me 📫 </div> <br/>
 <div align="center">
 	<a href="mailto:jangjinhyuk567@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:jangjinhyuk567@gmail.com"/></a>
