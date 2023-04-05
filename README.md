@@ -14,7 +14,8 @@
 - ⚡ Fun fact: ...
 -->
 ___
-<div align="center"> :books: **Tech Stack** :books: </div>
+
+<div align="center"> :books: <Strong>Tech Stack<Strong>  :books: </div>
 <div align="center"> Languages </div>
 
 <div align="center">
