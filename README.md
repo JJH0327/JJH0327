@@ -16,9 +16,10 @@
 ___
 
 <div align="center"> 📚 <Strong>Tech Stack<Strong> 📚 </div>
+<br/><br/>
 	
 <div align="center"> 💻 Languages 💻 </div>
-	
+<br/><br/>	
 	
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -31,7 +32,7 @@ ___
 </div>
 
 <div align="center"> 🔨 Tools 🔨 </div>
-	
+<br/><br/>	
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Intellijidea-000000?style=flat&logo=Intellijidea&logoColor=white"/>
