@@ -1,6 +1,6 @@
 # <div align="center">Hi 👋, I'm Jinhyuk Jang 🙌 </div>
 
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJJH0327&count_bg=%2329746F&title_bg=%2347ACAC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 
 
