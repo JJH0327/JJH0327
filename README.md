@@ -16,10 +16,9 @@
 ___
 
 <div align="center"> 📚 <Strong>Tech Stack<Strong> 📚 </div>
-<br/><br/>
 	
 <div align="center"> 💻 Languages 💻 </div>
-<br/><br/>	
+<br/>
 	
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -30,9 +29,9 @@ ___
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle SQL&logoColor=white" />
 </div>
-
+<br/>
 <div align="center"> 🔨 Tools 🔨 </div>
-<br/><br/>	
+<br/>	
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Intellijidea-000000?style=flat&logo=Intellijidea&logoColor=white"/>
