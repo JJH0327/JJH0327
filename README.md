@@ -11,9 +11,7 @@
 
 - 🤔 I’m looking for help with **Artificial intelligence project** <br/>
 
-- 📫 How to reach me:  [jangjinhyuk567@gmail.com](jangjinhyuk567@gmail.com)  <br/>
-
-- ⚡ Fun fact: ... <br/>
+- ⚡ Fun fact: I love **Otter** 🦦 and **Boxing** 🥊 <br/>
 
 
 ___
@@ -43,6 +41,16 @@ ___
 	<img src="https://img.shields.io/badge/Datagrip-000000?style=flat&logo=Datagrip&logoColor=white"/>
 	
 </div>
-
+<div align="center"> 📫 Contact me 📫 </div> <br/>
+<div align="center">
+	<a href="https://instagram/hlkgur"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram/hlkgur"/></a> </div>
+	
+	
+	
+	
+	
+	
+	
+	
 
 
