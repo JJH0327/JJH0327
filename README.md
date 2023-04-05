@@ -43,7 +43,7 @@ ___
 </div>
 <div align="center"> 📫 Contact me 📫 </div> <br/>
 <div align="center">
-	<a href="https://instagram/hlkgur"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram/hlkgur"/></a> </div>
+	<a href="https://instagram/hlkgur"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram/hlkgur"/></a> </div>
 	
 	
 	
