@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on **any Application Development** <br/>
 
 - 🤔 I’m looking for help with **Artificial intelligence project** <br/>
+- 👨‍💻 All of my projects are available at https://github.com/JJH0327
 
 - ⚡ Fun fact: I love **Otter** 🦦 and **Boxing** 🥊 <br/>
 
