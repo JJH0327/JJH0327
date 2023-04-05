@@ -15,8 +15,8 @@
 -->
 ___
 
-<div align="center"> :books: <Strong>Tech Stack<Strong>  :books: </div>
-<div align="center"> Languages </div>
+<div align="center"> 📚 <Strong>Tech Stack<Strong> 📚 </div>
+<div align="center"> 💻 Languages 💻 </div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -28,7 +28,7 @@ ___
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle SQL&logoColor=white" />
 </div>
 
-<div align="center"> Tools </div>
+<div align="center"> 🔨 Tools 🔨 </div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Intellijidea-000000?style=flat&logo=Intellijidea&logoColor=white"/>
