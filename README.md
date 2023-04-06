@@ -11,9 +11,9 @@
 
 - 🤔 I’m looking for help with **Artificial intelligence project** <br/>
 - 👨‍💻 All of my projects are available at https://github.com/JJH0327 <br/>
-- 📫 How to reach me jangjinhyuk567@gmail.com 
+- 📫 *lim* *f* ***(JJH)*** = jangjinhyuk567@gmail.com
 - ⚡ Fun fact: I love **Otter** 🦦 and **Boxing** 🥊 <br/>
-*lim* *f*(JJH) = jangjinhyuk567@gmail.com
+
 ___
 
 
