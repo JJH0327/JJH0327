@@ -11,7 +11,7 @@
 
 | Category | Details |
 | :--- | :--- |
-| **🎓 Education** | **Computer Science (3.0/4.5)**, Suny Korea (2021.1 - Present) |
+| **🎓 Education** | **Computer Science (3.0/4.0)**, Suny Korea (2021.1 - Present) |
 | **🧠 Expertise** | Full-Stack Development, Backend API Design, AI Project Integration (using Python/FastAPI) |
 | **🤝 Collaboration** | Application Development, AI-based or Backend-focused projects, System Maintenance & Optimization |
 | **💡 Looking For Guidance In** | Scaling deployed services and advanced backend architecture patterns. |
